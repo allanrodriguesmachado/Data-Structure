@@ -1,7 +1,7 @@
 typedef int typeItem;
 const int maxItems = 100;
 
-class stack() {
+class stack {
     private:
       typeItem size;
       typeItem* structure;
