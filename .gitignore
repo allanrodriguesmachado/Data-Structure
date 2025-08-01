@@ -6,3 +6,28 @@ a.out
 *.out
 *.exe
 
+# Arquivos de debug
+*.dSYM/
+
+# Diretórios de build comuns
+/build/
+/bin/
+/obj/
+
+# Arquivos temporários do compilador
+*.obj
+*.pch
+
+# Arquivos gerados pelo Visual Studio
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.class
+
+# Outros arquivos comuns de compilação
+*.so
+*.a
+*.lib
+*.dll
