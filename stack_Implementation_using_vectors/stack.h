@@ -6,7 +6,6 @@ class stack() {
       typeItem size;
       typeItem* structure;
       
-
     public:
         stack();
         ~stack();
